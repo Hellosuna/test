@@ -1,0 +1,5 @@
+# wamr extension
+comment = 'wasm runtime executor for opengauss based on wasmtime'
+default_version = '1.0'
+module_pathname = '$libdir/wamr'
+relocatable = true
